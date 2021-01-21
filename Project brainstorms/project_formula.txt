@@ -3,7 +3,7 @@ Formula for text-as-data research
 
 
 What question do you want to answer? This should be something you *actually* want to know, and it should end in a question mark.
-
+what is the success rate of student with dual diagnosis in college?
 
 What source of text data will you use?
 

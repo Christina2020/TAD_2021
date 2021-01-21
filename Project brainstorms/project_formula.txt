@@ -3,11 +3,14 @@ Formula for text-as-data research
 
 
 What question do you want to answer? This should be something you *actually* want to know, and it should end in a question mark.
-what is the success rate of student with dual diagnosis in college?
+what is the success rate of student with dual diagnosis with a support network in college?
 
 What source of text data will you use?
+Research gate and Jstor
 
 What are two possible answers to the question?
+The success rate will be high
+The success rate will be low
 
 How will the results of the quantitative text analysis demonstrate which of those answers is correct?
-
+By isolating the strength of the support network. If the support network is very active than the success rate will be high and vice versa for a low active support network 
